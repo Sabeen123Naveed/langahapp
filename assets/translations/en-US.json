@@ -1,0 +1,36 @@
+
+{
+  "1st_page": "Welcome!\nYou’re all in one Europe License theory app!",
+  "2nd_page": "Practice tests, study materials, and progress all in one app.",
+  "3rd_page": "App gives live feedback on driving habits to improve skills.",
+  "Skip_button": "Skip",
+  "Country_Selection": "Select your Country",
+  "Countryname_Turkey": "Turkey",
+  "Countryname_USA": "USA",
+  "Countryname_Pakistan": "Pakistan",
+  "Countryname_India": "India",
+  "Homepage_title" : "Europe \nLicense Theory",
+
+  "Homepage_subtitle" : "Practice all questions to succeed at the driver knowledge test",
+  "Listview_1": "All Questions",
+  "Listview_2": "Picture Questions",
+  "Listview_3": "Video Questions",
+  "Listview_4": "Formula Questions",
+  "Listview_5": "Favourite Questions",
+  "Listview_6": "Topic Sheets",
+  "bottomnav_1": "Practice",
+  "bottomnav_2": "Progress",
+  "bottomnav_3": "Exam",
+  "bottomnav_4": "Menu",
+  "Choose_language": "Choose App Language",
+  "Choose_language1": "Turkish",
+  "Choose_language2": "English",
+  "Choose_language3": "Urdu",
+  "Choose_language4": "Hindi",
+  "Learning_Progress": "Learning Progress",
+  "Topic_Sheets": "Topic Sheets",
+  "Exam_Progress": "Exam Progress",
+  "Shortexam": "Short Exam",
+  "Final": "Final Exam"
+
+}
